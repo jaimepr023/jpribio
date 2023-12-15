@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+header {
+	background-color: yellow;
+	padding: 1.5rem;
+	display: flex;
+
+}
+
+
+.imagen3 {
+	border: solid red;
+	border-radius: 100%;
+	width: 10rem;
+}
+
+nav {
+	display: flex;
+	background-color: yellow;
+	float: right;
+}
+
+main {
+	float: left;
+	background-color: lightyellow;
+}
+
+div {
+	display: flex;
+}
+
+.imagen4 {
+	margin-left: 10%;
+	width: 8rem;
+
+}
+
+p {
+	float: right
+}

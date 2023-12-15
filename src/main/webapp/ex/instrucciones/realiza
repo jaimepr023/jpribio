@@ -1,0 +1,35 @@
+Realiza una página web con las siguientes características,
+use la imagen 1 y 2 como referencia.
+
+En la página principal debemos tener 5 zonas diferenciadas:
+1>Zona de título y menú de navegación en horizontal, en dos filas
+2>Zona principal con el cuerpo de la noticia
+3>Vídeo de la noticia
+4> Zona de artículos recomendados
+5>Pie de página.
+
+A continuación se expresan las carácterísticas que debe cumplir
+1>El título debe tener un tamaño superior al resto de texto y contar con la imagen3
+El menú de navegación solo tiene un enlace disponible, el resto te mantiene en la página
+Cuando pasas el cursor por encima se cambia el color a verde de inmediato y el tamaño durante 2 segundos.
+
+2>Tal y como se ve en la imagen1_1 e imagen1_2. Use la imagen4 y el texto txt4.
+
+3>Incorporé un vídeo con controles, en lugar de ponerle un archivo déjelo vacío.
+
+4>Fuerza al fallo de las imágenes y haz que salga un texto de error en ellas.
+
+5>Letra más pequeña que el resto, la imagen contiene un hipervínculo hacia el inicio de la página
+
+En la otra página (véase imagen2) las zonas 2, 3 y 4 serán sustituidas por un formulario de contacto.
+En las entradas de texto se cambiará el color de la casilla a amarillo y al clickar en ellas para escribir se cambiará a verde con las letras en rojo (de normal estarán en negro). 
+
+Se pide configurar los meta elementos para que la página posea la siguiente descripción: “Las noticias frescas de los grados de informática del centro Altair. 2023” y como autor aparezca el centro seguido de vuestras siglas, por ejemplo: “Altair-DMJ”.
+
+
+Toda imagen debe estar dentro de una carpeta denominada "Multimedia"
+
+Tenga en cuenta que una vez completo debe de moverse a
+una carpeta llamada Realiza_SIGLAS todos los archivos
+que se hayan utilizado en la actividad. 
+
